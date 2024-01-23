@@ -30,8 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Site noticias é um projeto que simula um site de noticias, ministradas pelo professor Jailton Damasceno.
-Os conhecimentos adquiridos nesse projeto, como elementos básicos de HTML e CSS, reforçando meu aprendizado para avançar em novas tecnologias.
+O Site noticias é um projeto de site de noticias, ministradas pelo professor Jailton Damasceno.
+
+Os conhecimentos adquiridos nesse projeto, como elementos básicos de HTML e CSS, reforçando meu aprendizado para avançar em novas tecnologias. Projeto não responsivo!
 
 
 ## 🔖 Layout
